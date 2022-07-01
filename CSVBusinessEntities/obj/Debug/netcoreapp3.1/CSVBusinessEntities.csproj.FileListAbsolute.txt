@@ -1,0 +1,9 @@
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\bin\Debug\netcoreapp3.1\CSVBusinessEntities.deps.json
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\bin\Debug\netcoreapp3.1\CSVBusinessEntities.dll
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\bin\Debug\netcoreapp3.1\CSVBusinessEntities.pdb
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\obj\Debug\netcoreapp3.1\CSVBusinessEntities.csprojAssemblyReference.cache
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\obj\Debug\netcoreapp3.1\CSVBusinessEntities.AssemblyInfoInputs.cache
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\obj\Debug\netcoreapp3.1\CSVBusinessEntities.AssemblyInfo.cs
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\obj\Debug\netcoreapp3.1\CSVBusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\obj\Debug\netcoreapp3.1\CSVBusinessEntities.dll
+C:\Users\Paola Ortiz\source\repos\CsvApi\CSVBusinessEntities\obj\Debug\netcoreapp3.1\CSVBusinessEntities.pdb
